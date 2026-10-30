@@ -1,6 +1,6 @@
 cask "inlet" do
-  version "0.1.1"
-  sha256 "d01b9f5aa4cf3dfc37f74075283cfa2ec7526dbb920e925979414ea613fb9f1c"
+  version "0.1.2"
+  sha256 "933f84097e8088e712bf4410ced996fff0dfa4a697aa5b46b8fea0f469416350"
 
   url "https://github.com/colbytimm/inlet-releases/releases/download/v#{version}/Inlet-#{version}.zip"
   name "Inlet"
